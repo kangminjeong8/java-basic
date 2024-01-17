@@ -18,4 +18,12 @@ public class MemberConstruct {
         this.grade = grade;
     }
 
+    // 생성자 추가(생성자 오버로딩)
+    // this()를 사용하면 생성자 내부에서 다른 생성자를 호출할 수 있다. 이 부분을 잘 활용하면 지금과 같이 중복을 제거할 수 있다.
+    // this()는 생성자 코드의 첫줄에만 작성할 수 있다.
+    MemberConstruct(String name, int age) {
+        //System.out.println("go!");
+        this(name, age, 50); // this는 인스턴스 자신의 참조값을 가리킨다. 그래서 자기 자신의 생성자를 호출한다고 생각하면 된다.
+    }
+
 }
