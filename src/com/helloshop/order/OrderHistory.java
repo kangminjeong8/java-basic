@@ -1,2 +1,4 @@
-package com.helloshop.order;public class OrderHistory {
+package com.helloshop.order;
+
+public class OrderHistory {
 }
