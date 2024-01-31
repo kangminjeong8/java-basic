@@ -1,7 +1,7 @@
 package access;
 
 public class Speaker {
-    int volume;
+    private int volume; // private 사용해서 모든 외부 호출 막기
 
     Speaker(int volume) { // 생성자를 통해서 초기 음량 지정
         this.volume = volume;
