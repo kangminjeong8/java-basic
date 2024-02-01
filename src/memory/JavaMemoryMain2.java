@@ -27,7 +27,7 @@ public class JavaMemoryMain2 {
         System.out.println("data.value = " + data2.getValue());
         System.out.println("method2 end"); //종료될 때 스택 프레임이 제거되면서 매개변수 data2도 함께 제거된다.
     }
-    
+
     //정리
     //지역변수는 스택 영역에, 객체는 힙 영역에 관리된다.
     //static-메서드 영역과 밀접한 연관이 있다.
