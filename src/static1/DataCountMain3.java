@@ -17,9 +17,9 @@ public class DataCountMain3 {
         //반면에 인스턴스인 붕어빵은 인스턴스의 수 만큼 변수가 존재한다.
 
         //추가
-        //인스턴스를 통한 접근은 가능하나 권장하지 않는다. 코드를 읽을 때 마치 인스턴스 변수에
+        //인스턴스를 통한 접근은 가능하나 권장하지 않는다. 코드를 읽을 때 마치 인스턴스 변수에 접근하는 것 처럼 오해할 수 있다.
         Data3 data4 = new Data3("D");
-        System.out.println("D count = " + data4.count);
+        System.out.println("D count = " + Data3.count);
 
         //클래스를 통한 접근
         System.out.println(Data3.count);
