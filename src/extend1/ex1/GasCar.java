@@ -1,0 +1,7 @@
+package extend1.ex1;
+
+public class GasCar extends Car{
+    public void fillUp() {
+        System.out.println("휘발유를 주유합니다.");
+    }
+}
