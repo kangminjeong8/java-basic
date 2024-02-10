@@ -19,3 +19,17 @@ N
 src/poly/overriding/Child.java,9/3/938c89d925619a4b2f3bcff1956b9f6e0859cff0
 W
 'src/poly/overriding/OverridingMain.java,b/8/b8f0f1e4aba328034bdb994b0a51af89bd8d9c05
+E
+src/poly/ex1/Dog.java,7/d/7d41114860c6b3c9317b67667d3784f7f01f8ccc
+E
+src/poly/ex1/Cat.java,a/4/a446dcb21b6372a9f02e2f093866b140da67192e
+E
+src/poly/ex1/Cow.java,3/0/307595c52e93ee09f69b8634dc1dbb90663f33bf
+Q
+!src/poly/ex1/AnimalSoundMain.java,3/4/343dc8b3918c49ec26c79c1cdc1c6eb66bf911a0
+E
+src/poly/ex1/Caw.java,1/b/1b0ba86673e081294124d14e3d35d56f2578f9af
+w
+G.idea/sonarlint/issuestore/f/e/fe39f93de24b10995e77cae92fe75f24967580aa,3/5/355e43d741cdbb0ab88a1889a9ed93d713066090
+S
+#.idea/sonarlint/issuestore/index.pb,9/f/9fe84ebb15faf917b7def6236dba604453cc61e0
