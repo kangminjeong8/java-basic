@@ -1,7 +1,0 @@
-
-G	java:S106"+Replace this use of System.out by a logger.(éÛ8Íî¿—Ù1
-L	java:S106
-"+Replace this use of System.out by a logger.(è•ïüÿÿÿÿ8Íî¿—Ù1
-f
-java:S6201"DReplace this instanceof check and cast with 'instanceof Child child'(±ƒ—Ïıÿÿÿÿ8Ìî¿—Ù1
-G	java:S106"+Replace this use of System.out by a logger.(üöàü8¿äÈ—Ù1

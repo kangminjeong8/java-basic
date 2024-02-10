@@ -1,13 +1,0 @@
-
-
-java:S1192
-"_Define a constant instead of duplicating this literal "ë™ë¬¼ ì†Œë¦¬ í…ŒìŠ¤íŠ¸ ì‹œì‘" 3 times.(±Ö„åøÿÿÿÿ8ƒ“âœÙ1
-
-java:S1192"_Define a constant instead of duplicating this literal "ë™ë¬¼ ì†Œë¦¬ í…ŒìŠ¤íŠ¸ ì¢…ë£Œ" 3 times.(ô˜ì§üÿÿÿÿ8ƒ“âœÙ1
-L	java:S106
-"+Replace this use of System.out by a logger.(±Ö„åøÿÿÿÿ8‡“âœÙ1
-L	java:S106"+Replace this use of System.out by a logger.(ô˜ì§üÿÿÿÿ8‡“âœÙ1
-L	java:S106"+Replace this use of System.out by a logger.(±Ö„åøÿÿÿÿ8ˆ“âœÙ1
-L	java:S106"+Replace this use of System.out by a logger.(ô˜ì§üÿÿÿÿ8ˆ“âœÙ1
-L	java:S106"+Replace this use of System.out by a logger.(±Ö„åøÿÿÿÿ8ˆ“âœÙ1
-L	java:S106"+Replace this use of System.out by a logger.(ô˜ì§üÿÿÿÿ8‰“âœÙ1
